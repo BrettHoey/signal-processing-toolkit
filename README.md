@@ -13,7 +13,7 @@ Includes a GUI (Tkinter) and command-line version.
 ## How to Run
 1. Clone the repo:
 
-git clone https://github.com/YOUR_USERNAME/signal-processing-toolkit.git
+git clone https://github.com/bretthoey/signal-processing-toolkit.git
 
 
 2. Create a virtual environment:
